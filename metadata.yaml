@@ -1,0 +1,32 @@
+_repo: Binney-the-beaver-b-and-other-stories_75101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2025-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75101'
+language: en
+pgterms:marc905: 20241124133231guernsey
+pgterms:marc906: '1875'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bHenry A. Young & Co., $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Binney the beaver : $b and other stories'
+url: http://www.gutenberg.org/ebooks/75101
